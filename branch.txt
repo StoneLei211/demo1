@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-first branch demo 
-=======
-new feature added
->>>>>>> f
