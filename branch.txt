@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-third
-=======
-first
-second 
->>>>>>> f
+first branch demo 
